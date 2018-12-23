@@ -1,0 +1,75 @@
+	
+.ddroot {
+		-fx-padding: 10;
+		-fx-border-style: solid inside;
+		-fx-border-width: 2;
+		-fx-border-insets: 5;
+		-fx-border-radius: 5;
+		-fx-border-color: blue;
+		 -fx-background-color: Gainsboro;
+}
+	
+
+#bottomTextcss {
+    -FX-fill: white;
+    -FX-font: 18px Arial; 
+}
+
+.myrect {
+    -fx-fill: radial-gradient(center 50% 50%, radius 70%, rgba(0, 0, 0, 0.1) 40%, rgba(0, 0, 0, 0.8) 100%);
+}
+	
+		
+		
+		  
+      
+    /*
+     *  -fx-Alignment: Center;
+     * -fx-background-color: #00CC00;
+     * -fx-background-insets: -1.4, -1.4, -1.4, -1.4;
+     * -fx-spacing: 1.333em;
+     *-fx-font-margin: 10, 10, 10, 10; 
+     * 
+     * 
+     */ 
+
+
+
+#toptextcc{
+ -fx-font-size: 2.8em;			
+}
+#logostyle{
+ -fx-font-size: 0.8em;			
+}
+
+
+
+#grid {
+
+ -fx-setHGap: 10, 10, 10, 10;	
+ -fx-font-padding: 10, 10, 10, 10;	
+ -fx-font-insets: 10, 10, 10, 10;
+
+}
+
+
+
+
+#genderchoostextcss{
+ -fx-font-margin: 10, 10, 10, 10;	
+ -fx-font-padding: 10, 10, 10, 10;	
+ -fx-font-insets: 10, 10, 10, 10;		
+}
+
+/*
+ * 
+ * 	       label.setStyle("-fx-background-color:yellow");
+*	       label.setPadding(new Insets(5,5,5,5));
+*	       label.setVisible(false);
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
